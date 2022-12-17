@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: What makes a movie succesful?
+description: The purpose of this website is to show the results of the applied data analysis study that has been carried out by TheADAholics group to determine what factors make a successful film.
 show_downloads: True
 navigation:
   - title: Home
